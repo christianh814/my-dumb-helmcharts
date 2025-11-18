@@ -14,6 +14,16 @@ entries:
   gateway-api:
   - apiVersion: v2
     appVersion: 1.4.0
+    created: "2025-11-18T22:45:16.506445925Z"
+    description: This should not be used by anyone
+    digest: 18fc183fd2a0bf6a21baf22c0a13db258eeef8609c12754bb1b68a1788af4c2f
+    name: gateway-api
+    type: application
+    urls:
+    - https://github.com/christianh814/my-dumb-helmcharts/releases/download/gateway-api-0.1.1/gateway-api-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.4.0
     created: "2025-11-07T19:29:12.909795908Z"
     description: This should not be used by anyone
     digest: c056b537ae565b294e891a730ce12d12c038a2a168dbcb52b3a5fe0bb413071a
@@ -22,4 +32,4 @@ entries:
     urls:
     - https://github.com/christianh814/my-dumb-helmcharts/releases/download/gateway-api-0.1.0/gateway-api-0.1.0.tgz
     version: 0.1.0
-generated: "2025-11-07T19:29:12.909806999Z"
+generated: "2025-11-18T22:45:16.506459731Z"
